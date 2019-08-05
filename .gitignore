@@ -1,0 +1,10 @@
+#dotenv files
+.env
+
+#dependency directory
+node_modules
+
+#logs
+logs
+*.log
+

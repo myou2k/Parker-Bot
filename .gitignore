@@ -1,4 +1,5 @@
 #dotenv files
+.env
 
 #dependency directory
 node_modules

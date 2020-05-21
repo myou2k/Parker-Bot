@@ -10,3 +10,5 @@
 !wya - Where's parker  
 !sing - Play a song  
 !fact - Give a fact  
+
+Project is on-hold
